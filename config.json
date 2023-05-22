@@ -1,0 +1,10 @@
+{
+  "strport": 3232,
+  "url": "pool.xdag.org:13656",
+  "log": "proxy.log",
+  "tls": false,
+  "debug": false,
+  "testnet": false,
+  "socks5": "",
+  "ratelimit": 10
+}
